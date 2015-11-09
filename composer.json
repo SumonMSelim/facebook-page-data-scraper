@@ -1,0 +1,14 @@
+{
+    "name": "kodeeo/facebook-page-scraper",
+    "description": "Facebook Page Post Scraper",
+    "require": {
+        "facebook/php-sdk-v4": "~5.0"
+    },
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Muhammad Sumon Molla Selim",
+            "email": "me@sumonselim.com"
+        }
+    ]
+}
